@@ -1,7 +1,7 @@
 # SentinelOne-Hooking-Bypass
 ```bash
 PoC name : Scout - Escape EDR Hooking
-Author: Evenson Jeunesse (0xLun)
+Author: 0xLun
 Date : 10/11/2023
 ```
 ## Description 
